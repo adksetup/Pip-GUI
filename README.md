@@ -45,7 +45,7 @@ python main.py
 2. Mac / Linux 运行脚本前必须赋予执行权限
 
 ## 项目信息
-项目名称：Pip GUI
-工具系列：QPALZM Toolkit
-开发作者：AdkSetup
-支持平台：全跨平台（Windows / macOS / Linux）
+项目名称：Pip GUI，
+工具系列：QPALZM Toolkit，
+开发作者：AdkSetup，
+支持平台：全跨平台（Windows / macOS / Linux）。
