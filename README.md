@@ -15,7 +15,7 @@
 | Pip-GUI-v0.1-macos.dmg | macOS | Mac 标准安装包，拖拽安装到应用程序 |
 | Pip-GUI-v0.1-linuxormacos.zip | macOS / Linux | 绿色压缩包，解压即可直接运行 |
 | Pip-GUI-windows-portable.exe | Windows | Windows 便携单文件版，无需安装 |
-| Pip-GUI-windows_setup.exe | Windows | 7-Zip 自解压安装包，完整安装程序 |
+| Pip-GUI-windows-setup.exe | Windows | 7-Zip 自解压安装包，完整安装程序 |
 
 ## 📖 使用教程
 ### 方式一：直接运行编译好的程序包
