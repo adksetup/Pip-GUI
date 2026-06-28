@@ -43,6 +43,7 @@ python main.py
 ## 注意事项
 1. 电脑需提前安装 Python 并配置系统环境变量
 2. Mac / Linux 运行脚本前必须赋予执行权限
+3. Windows 使用安装包安装后不会创建桌面快捷方式。
 
 ## 项目信息
 项目名称：Pip GUI，
