@@ -1,13 +1,13 @@
 # Pip GUI
 跨平台图形化 Pip 管理工具，可视化操作 Python 包管理器，无需手动输入命令行。
 
-## ✨ 功能特点
+## 功能特点
 - 可视化图形界面，一键完成 pip 安装、卸载、查询、升级
 - 实时输出 pip 运行日志，操作过程一目了然
 - 全平台适配：Windows / macOS / Linux
 - 配套一键依赖安装脚本，源码运行无需手动配库
 
-## 📦 发布包 Assets 说明
+## 发布包 Assets 说明
 | 文件名称 | 适用平台 | 介绍 |
 |--------|--------|------|
 | InstallDependencies.bat | Windows | Windows 一键依赖安装脚本 |
@@ -17,7 +17,7 @@
 | Pip-GUI-windows-portable.exe | Windows | Windows 便携单文件版，无需安装 |
 | Pip-GUI-windows-setup.exe | Windows | 7-Zip 自解压安装包，完整安装程序 |
 
-## 📖 使用教程
+## 使用教程
 ### 方式一：直接运行编译好的程序包
 1. 进入仓库 Releases 页面，下载对应系统的文件
 2. 运行对应程序：
@@ -40,7 +40,7 @@ chmod +x install_dependencies.sh
 python main.py
 ```
 
-## ⚠️ 注意事项
+## 注意事项
 1. 电脑需提前安装 Python 并配置系统环境变量
 2. Mac / Linux 运行脚本前必须赋予执行权限
 
