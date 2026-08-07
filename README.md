@@ -1,6 +1,8 @@
 # Pip GUI
 跨平台图形化 Pip 管理工具，可视化操作 Python 包管理器，无需手动输入命令行。
 
+> [English Documentation](./README.en.md) | 中文文档
+
 ## 功能特点
 - 可视化图形界面，一键完成 pip 安装、卸载、查询、升级
 - 实时输出 pip 运行日志，操作过程一目了然
@@ -50,3 +52,6 @@ python main.py
 工具系列：QPALZM Toolkit，
 开发作者：AdkSetup，
 支持平台：全跨平台（Windows / macOS / Linux）。
+
+## 开源协议
+本项目基于 [MIT License](./LICENSE) 开源。
